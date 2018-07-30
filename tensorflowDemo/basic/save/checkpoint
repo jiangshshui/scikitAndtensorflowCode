@@ -1,2 +1,0 @@
-model_checkpoint_path: "expotential_model.ckpt"
-all_model_checkpoint_paths: "expotential_model.ckpt"
