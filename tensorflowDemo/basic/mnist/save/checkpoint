@@ -1,0 +1,6 @@
+model_checkpoint_path: "mnistmodel.ckpt-14001"
+all_model_checkpoint_paths: "mnistmodel.ckpt-10001"
+all_model_checkpoint_paths: "mnistmodel.ckpt-11001"
+all_model_checkpoint_paths: "mnistmodel.ckpt-12001"
+all_model_checkpoint_paths: "mnistmodel.ckpt-13001"
+all_model_checkpoint_paths: "mnistmodel.ckpt-14001"
